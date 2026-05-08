@@ -15,6 +15,8 @@ En su obra *El software toma el mando*, Lev Manovich nos explica que el software
 ### Descripción e hibridación
 Zwift es un caso fascinante de lo que Manovich llamaría un "metamedio". A simple vista parece un videojuego de ciclismo, pero técnicamente es una hibridación compleja de tres mundos: la **cartografía digital**, el **multijugador masivo (MMO)** y la **simulación física**. El usuario no juega con un mando, sino con su propio cuerpo montado en una bicicleta real sobre un rodillo inteligente que se comunica con el software mediante protocolos como ANT+ o Bluetooth.
 
+![Pantallazo de la interfaz de Zwift](Zwift.png)
+
 Aquí la hibridación ocurre en el flujo de datos. El software recibe los vatios de potencia que generan mis piernas y los "traduce" instantáneamente en velocidad dentro de un mundo digital 3D. Si el software detecta que en el mundo virtual hay una cuesta del 10%, envía una señal al rodillo físico para que aumente la resistencia, obligándome a pedalear más fuerte, y todo esto en en el salón de mi casa o donde yo quiera. Es la fusión total entre un esfuerzo biológico real y una respuesta algorítmica.
 
 ### Análisis con "las gafas de Manovich"
@@ -30,6 +32,8 @@ Puedes ver el funcionamiento de esta plataforma en su web oficial: [Zwift.com](h
 
 ### Descripción e hibridación
 Si Zwift hibrida el cuerpo, Midjourney hibrida la mente y el lenguaje con la creación estética. Estamos ante una herramienta de IA generativa que permite crear imágenes complejas a partir de descripciones textuales (*los prompts*). Para Manovich, esto sería el nivel máximo de **Deep Remixability**. El software ha sido "entrenado" con millones de imágenes y textos previos, permitiendo que hoy cualquier usuario pueda hibridar el estilo de un pintor clásico con la estética de una película de ciencia ficción moderna simplemente escribiendo una frase.
+
+![Pantallazo de la generación de imágenes en Midjourney](Midjourney.png
 
 Lo que ocurre aquí es una hibridación de lenguajes que antes estaban separados por barreras técnicas. Antes, para pintar como Velázquez necesitabas años de técnica manual; hoy, el software ha hibridado ese "estilo" y lo ha convertido en un parámetro más de una interfaz de chat. La palabra escrita se convierte en el motor de renderizado de la imagen.
 
