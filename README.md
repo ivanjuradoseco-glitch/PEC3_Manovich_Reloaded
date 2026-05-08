@@ -33,7 +33,9 @@ Puedes ver el funcionamiento de esta plataforma en su web oficial: [Zwift.com](h
 ### Descripción e hibridación
 Si Zwift hibrida el cuerpo, Midjourney hibrida la mente y el lenguaje con la creación estética. Estamos ante una herramienta de IA generativa que permite crear imágenes complejas a partir de descripciones textuales (*los prompts*). Para Manovich, esto sería el nivel máximo de **Deep Remixability**. El software ha sido "entrenado" con millones de imágenes y textos previos, permitiendo que hoy cualquier usuario pueda hibridar el estilo de un pintor clásico con la estética de una película de ciencia ficción moderna simplemente escribiendo una frase.
 
-![Pantallazo de la generación de imágenes en Midjourney](Midjourney.png)
+<div align="center">
+  <img src="Midjourney.png" alt="Descripción de la imagen" width="600px">
+</div>
 
 Lo que ocurre aquí es una hibridación de lenguajes que antes estaban separados por barreras técnicas. Antes, para pintar como Velázquez necesitabas años de técnica manual; hoy, el software ha hibridado ese "estilo" y lo ha convertido en un parámetro más de una interfaz de chat. La palabra escrita se convierte en el motor de renderizado de la imagen.
 
