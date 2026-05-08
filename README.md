@@ -75,8 +75,12 @@ Tanto Zwift como Midjourney confirman que la predicción de Manovich era correct
 
 ---
 
+---
+
 ## 5. Referencias y metodología
+* **Alberich-Pascual, J. (2018).** *Elementos de la creatividad multimedia: apropiación, remediación, hibridación*. Barcelona: Editorial UOC.
 * **Manovich, L. (2013).** *El software toma el mando*. Editorial UOC.
 * **Resnick, M. (2017).** *Lifelong Kindergarten*. MIT Press.
+* **UOC. (2026).** *Recursos de aprendizaje de la PEC 3: Manovich Reloaded*. Grado de Multimedia.
 * **Licencia:** Este ensayo se publica bajo licencia MIT para fomentar el conocimiento abierto.
-* **Uso de IA:** Se ha utilizado la asistencia de la IA Gemini (Google) para la estructuración de ideas, generación de código de maquetación y supervisión de la redacción, bajo la validación directa del autor. de la redacción, bajo la supervisión y validación directa del autor.
+* **Uso de IA:** Se ha utilizado la asistencia de la IA Gemini (Google) para la estructuración de ideas, generación de código de maquetación HTML y supervisión de la redacción, bajo la validación directa del autor.
