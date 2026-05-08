@@ -22,6 +22,8 @@ Si nos ponemos las gafas de Manovich, en Zwift vemos una **transcodificación** 
 
 Además, cumple el principio de **remediación**. Zwift no elimina el ciclismo en carretera, sino que lo "remedia" en un entorno controlado que soluciona los problemas de tráfico o mal tiempo, añadiendo capas de información que no existen en el mundo real, como ver la potencia de tus rivales sobre sus cabezas. El software ha tomado el mando del entrenamiento deportivo, convirtiendo una actividad solitaria en casa en una experiencia social y competitiva global que solo es posible gracias a la hibridación de interfaces.
 
+Puedes ver el funcionamiento de esta plataforma en su web oficial: [Zwift.com](https://www.zwift.com)
+
 ---
 
 ## 3. Caso de estudio 2: Midjourney (La hibridación de la semántica visual)
@@ -35,6 +37,8 @@ Lo que ocurre aquí es una hibridación de lenguajes que antes estaban separados
 Aquí el principio de **variabilidad** de Manovich llega a su extremo. Una misma idea puede generar infinitas versiones visuales con solo cambiar una palabra en el código. Midjourney demuestra que el software ya no es un asistente para el diseño, sino que es el coautor. 
 
 La **capa informática** (las redes neuronales y el procesamiento de lenguaje natural) ha transcodificado nuestra forma de crear arte. Ya no pensamos en pinceladas, pensamos en conceptos, adjetivos y estilos que el software debe interpretar. Esta hibridación elimina la necesidad de dominar el hardware (el pincel o la cámara) para centrarse en el control del software. El "metamedio" de Midjourney es capaz de simular cualquier medio visual previo (fotografía, óleo, carboncillo) y mezclarlos en una sola imagen en segundos. Es la culminación de la tesis de que el software es la interfaz universal de la cultura contemporánea.
+
+Más información sobre la generación de imágenes en: [Midjourney.com](https://www.midjourney.com)
 
 ---
 
