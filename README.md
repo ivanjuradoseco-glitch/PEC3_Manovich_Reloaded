@@ -20,7 +20,7 @@ Zwift es un caso fascinante de lo que Manovich llamaría un "metamedio". A simpl
 </p>
 
 <div align="center">
-  <img src="Zwift.png" alt="Pantallazo de la interfaz de Zwift" width="600px">
+  <img src="img/Zwift.png" alt="Pantallazo de la interfaz de Zwift" width="600px">
 </div>
 
 <p align="justify">
@@ -48,7 +48,7 @@ Si Zwift hibrida el cuerpo, Midjourney hibrida la mente y el lenguaje con la cre
 </p>
 
 <div align="center">
-  <img src="Midjourney.png" alt="Generación de imagen en Midjourney" width="600px">
+  <img src="img/Midjourney.png" alt="Generación de imagen en Midjourney" width="600px">
 </div>
 
 <p align="justify">
